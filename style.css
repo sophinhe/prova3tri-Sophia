@@ -4,22 +4,28 @@ body{
     text-align: center;
 }
 
-.p{
+p{
     color:black;
 }
 
-.h1{
+h1{
     font-style: italic;
 
 }
 
 .sabrina{
 
-    color:rgb(1, 1, 153)
+    color:rgb(1, 1, 153);
+    font-size: medium;
 }
 
 .roxo{
 
-    width:10%
+    width:10%;
 
+}
+
+.amarelo{ 
+
+    width:10%;
 }
